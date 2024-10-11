@@ -14,7 +14,8 @@
     "libassert",
     "libzippp",
     "magic-enum",
-    "readline"
+    "readline",
+    "sqlite3"
   ],
   "default-features": [],
   "features": {

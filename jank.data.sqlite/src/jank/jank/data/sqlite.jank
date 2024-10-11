@@ -1,0 +1,7 @@
+(ns jank.data.sqlite
+  (:require [jank.data.sqlite.impl :as impl]))
+
+(def open impl/open)
+
+(defn -main [& _args]
+  (println "Hello from SQLite ns!"))
