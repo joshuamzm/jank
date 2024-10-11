@@ -30,10 +30,12 @@ build
 compiler+runtime/build-*
 coverage.txt
 vcpkg_installed
+.cmake/
 .idea/
 .vs/
 .vscode/
 cmake-build-*/
+CMakeFiles/
 prefix/
 CMakeLists.txt.user
 CMakeUserPresets.json
